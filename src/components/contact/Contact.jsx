@@ -28,7 +28,7 @@ const Contact = () => {
           <article className='contact_option'>
             <BiMailSend className='contact_option-icon' />
             <h4>Email</h4>
-            <h5>Maiwand.Zazai77@gamil.com</h5>
+            <h5>Maiwand.Zazai77@gmail.com</h5>
             <a href="mailto:Maiwand.Zazai77@gmail.com" target='_blank'>Send Mail</a>
           </article>
 
@@ -43,7 +43,7 @@ const Contact = () => {
             <BsWhatsapp className='contact_option-icon' />
             <h4>WhatsApp</h4>
             <h5>Maiwand Zazai</h5>
-            <a href="https://wa.me/+93799999513" target='_blank'>WhatsApp Me</a>
+            <a href="https://wa.me/+93799666009" target='_blank'>WhatsApp Me</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

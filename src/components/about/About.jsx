@@ -23,22 +23,22 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>+2 Years Wroking</small>
+              <small>+4 Years Wroking</small>
             </article>
              <article className='about__card'>
               <FaUsers className='about__icon'/>
               <h5>Happy Clients</h5>
-              <small>8+ Clients</small>
+              <small>20+ Clients</small>
             </article>
              <article className='about__card'>
               <VscFolderActive className='about__icon'/>
               <h5>Projects</h5>
-              <small>8+ Completed</small>
+              <small>20+ Completed</small>
             </article>
           </div>
            <p>
-          My Name is Maiwand Zazai, i have been Wroking With Roshan Telecomenication for 2 years 
-          i have Worked on more than 10 porjects and completed 8 of them Successfully. 
+         My name is Maiwand Zazai. I have over 3 years of experience at Roshan Telecommunication, where I worked on more than 10 projects and successfully completed all of them successfully. After that, I spent 6 months at Fidabo Holding in Italy, contributing to software development initiatives.
+In addition, I have worked extensively as a freelancer, delivering high-quality solutions to a variety of clients. I am currently freelancing while actively seeking a permanent position as a Full-Stack Developer, where I can apply my skills to build impactful, scalable applications
           </p>
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
