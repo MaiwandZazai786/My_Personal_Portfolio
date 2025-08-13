@@ -1,6 +1,6 @@
 import React from 'react'
 
-import CV from '../assets/Maiwand_Zazai_updated_Cv.pdf';
+import CV from '../assets/Maiwand_Zazai_-_Full_Stack_Developer.pdf';
 const CTA = () => {
   return (
       <div className='cta'>
