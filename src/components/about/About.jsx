@@ -36,15 +36,16 @@ const About = () => {
             </article>
           </div>
           <p>
-            My name is Maiwand Zazai. I have over 3 years of experience at
-            Roshan Telecommunication, where I worked on more than 10 projects
-            and successfully completed all of them. After that, I spent 6 months
-            at Fidabo Holding in Italy, contributing to software development
-            initiatives. In addition, I have worked extensively as a freelancer,
-            delivering high-quality solutions to a variety of clients. I am
-            currently freelancing while actively seeking a permanent position as
-            a Full-Stack Developer, where I can apply my skills to build
-            impactful, scalable applications
+            I am Maiwand Zazai, a Full-Stack Developer with over 3 years of
+            experience at Roshan Telecommunication, where I successfully
+            delivered more than 10 projects from start to finish. I then spent 6
+            months with Fidabo Holding in Italy, contributing to innovative
+            software development initiatives. Alongside my professional roles, I
+            have built a strong freelance career, providing high-quality,
+            tailored solutions to diverse clients. I am currently freelancing
+            while actively seeking a permanent Full-Stack Developer position,
+            where I can leverage my expertise to build impactful, scalable
+            applications.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
